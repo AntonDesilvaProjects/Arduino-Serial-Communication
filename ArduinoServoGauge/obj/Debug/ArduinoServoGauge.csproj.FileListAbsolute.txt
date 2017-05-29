@@ -1,0 +1,9 @@
+C:\Users\Anton\Desktop\PracticeNewKnowledhe\ArduinoServoGauge\ArduinoServoGauge\bin\Debug\ArduinoServoGauge.exe.config
+C:\Users\Anton\Desktop\PracticeNewKnowledhe\ArduinoServoGauge\ArduinoServoGauge\bin\Debug\ArduinoServoGauge.exe
+C:\Users\Anton\Desktop\PracticeNewKnowledhe\ArduinoServoGauge\ArduinoServoGauge\bin\Debug\ArduinoServoGauge.pdb
+C:\Users\Anton\Desktop\PracticeNewKnowledhe\ArduinoServoGauge\ArduinoServoGauge\obj\Debug\ArduinoServoGauge.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\PracticeNewKnowledhe\ArduinoServoGauge\ArduinoServoGauge\obj\Debug\ArduinoServoGauge.frmArduinoGauge.resources
+C:\Users\Anton\Desktop\PracticeNewKnowledhe\ArduinoServoGauge\ArduinoServoGauge\obj\Debug\ArduinoServoGauge.Properties.Resources.resources
+C:\Users\Anton\Desktop\PracticeNewKnowledhe\ArduinoServoGauge\ArduinoServoGauge\obj\Debug\ArduinoServoGauge.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\PracticeNewKnowledhe\ArduinoServoGauge\ArduinoServoGauge\obj\Debug\ArduinoServoGauge.exe
+C:\Users\Anton\Desktop\PracticeNewKnowledhe\ArduinoServoGauge\ArduinoServoGauge\obj\Debug\ArduinoServoGauge.pdb
