@@ -8,3 +8,4 @@ Find the Arduino code within the `arduino_servo.ino` & the C#/WinForm code withi
 ![alt text](https://github.com/AntonDesilvaProjects/Arduino-Serial-Communication/blob/master/servo_sketch_image.JPG "Arduino Sketch Image")
 ![alt text](https://github.com/AntonDesilvaProjects/Arduino-Serial-Communication/blob/master/servo_sketch_actual.jpg "Arduino Sketch Actual")
 
+An executable can be found under `/ArduinoServoGauge/bin/Debug/ArduinoServoGauge.exe`
