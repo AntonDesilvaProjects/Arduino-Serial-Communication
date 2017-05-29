@@ -20,15 +20,12 @@ namespace ArduinoServoGauge
 
         //Serial Communication port
         SerialPort arduinoPort;
-        String selectedPort = "COM4";
+        String selectedPort = "COM5";
 
         public frmArduinoGauge()
         {
             InitializeComponent();
 
-            //Initialize the COM port
-            arduinoPort = new SerialPort(selectedPort, 9600);
-            rotateServo(0); //Reset the servo to 0 degrees
             //Initialize the Graphics object
             g = Graphics.FromImage(bitmap);
             //Initialize the servo gauge and track bar rate
@@ -37,6 +34,10 @@ namespace ArduinoServoGauge
             
             //Start the main drawing loop
             gaugeTimer.Start();
+
+            //Initialize the COM port
+            arduinoPort = new SerialPort(selectedPort, 9600);
+            rotateServo(0); //Reset the servo to 0 degrees
            
         }
         /*
